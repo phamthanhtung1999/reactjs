@@ -1,0 +1,5 @@
+{
+  "terminal.integrated.allowMnemonics": true,
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+  "liveServer.settings.CustomBrowser": "chrome"
+}
